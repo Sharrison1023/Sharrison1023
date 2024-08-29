@@ -8,4 +8,4 @@
 * **Items in my Portfolio**
 -    `Dynamic Chart of Character Traits by Gender` [View live spreadsheet](https://docs.google.com/spreadsheets/d/your-sheet-id/edit?usp=sharing)
 -     Entry data: character, gender, traits; Aggregates traits by gender using Flatten, Query and Countifs; Presents a stacked histogram.
--     This was designed for classroom use so the Gender column is hidden and unhidden with a javascript-containing button
+-     Javascript-enabled button performs *surprise reveal* of gender column (for classroom lessons on gender politics in literature).
