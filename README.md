@@ -7,5 +7,5 @@
 - ⚡ Fun fact: I still write lesson plans for fun and put them up on Tumblr.
 * **Items in my Portfolio**
 -    `Dynamic Chart of Character Traits by Gender` [View live spreadsheet](https://docs.google.com/spreadsheets/d/your-sheet-id/edit?usp=sharing)
--     Counts instances of traits from data entry, aggregates by gender using Flatten, Query and Countifs, then presents a stacked histogram.
+-     Entry data: character, gender, traits; Aggregates traits by gender using Flatten, Query and Countifs; Presents a stacked histogram.
 -     This was designed for classroom use so the Gender column is hidden and unhidden with a javascript-containing button
