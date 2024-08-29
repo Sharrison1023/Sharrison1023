@@ -7,5 +7,5 @@
 - ⚡ Fun fact: I still write lesson plans for fun and put them up on Tumblr.
 * **Items in my Portfolio**
 -    `Dynamic Chart of Character Traits by Gender` [View live spreadsheet](https://docs.google.com/spreadsheets/d/your-sheet-id/edit?usp=sharing)
--     Entry data: character, gender, traits; Aggregates traits by gender using Flatten, Query and Countifs; Presents a stacked histogram.
--     Javascript-enabled button performs *surprise reveal* of gender column (for classroom lessons on gender politics in literature).
+-     Entry data: 1-100 characters (inc. gender, 1-10 traits each); Aggregates traits by gender using Flatten, Query and Countifs; Presents stacked histogram.
+-     JS button performs a *surprise reveal* of gender column (for classroom lessons on gender politics in literature).
